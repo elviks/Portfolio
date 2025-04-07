@@ -1,10 +1,10 @@
-@import url('https://fonts.cdnfonts.com/css/fira-sans');
+@import url('https://fonts.cdnfonts.com/css/vt323');
 
 :root {
      --terminal-green: #00ff00;
      --terminal-dark-green: #00cc00;
      --terminal-black: #0c0c0c;
-     --font-mono: 'Fira Sans', sans-serif;
+     --font-mono: 'VT323', sans-serif;
 }
 
 * {

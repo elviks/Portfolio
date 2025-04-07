@@ -1,10 +1,10 @@
-@import url('https://fonts.cdnfonts.com/css/vt323');
+@import url('https://fonts.cdnfonts.com/css/hack-2');
 
 :root {
      --terminal-green: #00ff00;
      --terminal-dark-green: #00cc00;
      --terminal-black: #0c0c0c;
-     --font-mono: 'VT323', sans-serif;
+     --font-mono: Hack, monospace;
 }
 
 * {

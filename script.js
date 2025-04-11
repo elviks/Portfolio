@@ -27,6 +27,7 @@ const content = {
         - Next Js
         - Express Js
         - Flutter
+        - React Native
         - Taiwlind
         - Bootstrap
         - Firebase
@@ -62,7 +63,12 @@ const content = {
         
         ## GamerGears : E-commerce Platform
         A complete online shopping solution with payment processing and inventory management.
-        Tech: NextJs, React-Native, PostgreSQL, 
+        Tech: NextJs, React-Native, PostgreSQL
+
+        ## Book Store
+        A minor project with CRUD functionality
+        Tech: ReactJs, ExpressJs, MongoDB
+        [Repo](https://github.com/elviks/bookstore-mern)
       `,
 
      education: `

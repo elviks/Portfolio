@@ -6,7 +6,7 @@ const content = {
         Role: Full Stack Developer
         Location: Pokhara, Nepal
         
-        I'm a fullstack developer with experience in building web applications.
+        I'm a fullstack developer with experience in building web and mobile applications.
         My focus is on creating clean, efficient, and user-friendly solutions to complex problems.
         
         When I'm not coding, you can find me gaming, watching sci-fi and horror movies, or exploring tech stuffs.

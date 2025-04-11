@@ -3,10 +3,10 @@ const content = {
         # ABOUT ME
 
         Name: Elvik Sharma
-        Role: Full Stack Developer
+        Role: Software Developer
         Location: Pokhara, Nepal
         
-        I'm a fullstack developer with experience in building web and mobile applications.
+        I'm a Software Developer with an experience in building web and mobile applications.
         My focus is on creating clean, efficient, and user-friendly solutions to complex problems.
         
         When I'm not coding, you can find me gaming, watching sci-fi and horror movies, or exploring tech stuffs.
@@ -57,9 +57,6 @@ const content = {
 
      projects: `
         # PROJECTS
-        
-        ## Premiere Pro Beginners Course
-        Planned and edited an entire video editing course focusing on beginners
         
         ## GamerGears : E-commerce Platform
         A complete online shopping solution with payment processing and inventory management.

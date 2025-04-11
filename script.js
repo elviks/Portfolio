@@ -207,7 +207,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
           const whoamiResponse = document.createElement("div");
           whoamiResponse.className = "response";
-          whoamiResponse.innerHTML = "Elvik Sharma - Full Stack Developer";
+          whoamiResponse.innerHTML = "Elvik Sharma - Software Developer";
           terminal.appendChild(whoamiResponse);
      }, 1000);
 });

@@ -57,15 +57,20 @@ const content = {
 
      projects: `
         # PROJECTS
-        
-        ## GamerGears : E-commerce Platform
-        A complete online shopping solution with payment processing and inventory management.
-        Tech: NextJs, React-Native, PostgreSQL
+
+        ## AskQ : Qwen Powered Chatbot
+        A simple chatbot interface with Qwen api integration from Open Router
+        Tech: ReactJs, Tailwind, Qwen2.5 VL 32B Instruct API
+        [Repo] (https://github.com/elviks/AskQ)
 
         ## Book Store
         A minor project with CRUD functionality
         Tech: ReactJs, ExpressJs, MongoDB
         [Repo](https://github.com/elviks/bookstore-mern)
+
+        ## GamerGears : E-commerce Platform
+        An online shopping ecommerce site for gaming gadgets.
+        Tech: ReactJs, React-Native, MongoDB, ExpressJs, NodeJs
       `,
 
      education: `

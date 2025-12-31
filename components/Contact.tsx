@@ -20,7 +20,7 @@ export default function Contact({ isVisible }: ContactProps) {
           Ready to create something extraordinary? Let&apos;s connect.
         </p>
 
-        <a href="mailto:dev@example.com" className="group relative inline-block">
+        <a href="mailto:elviksharma111@gmail.com" className="group relative inline-block">
           <div className="absolute inset-0 rounded-full bg-gradient-to-r from-green-500 to-emerald-600 opacity-50 blur-2xl transition-all duration-300 group-hover:opacity-100 animate-pulse" />
           <div className="relative rounded-full bg-gradient-to-r from-green-500 to-emerald-600 px-8 py-4 text-lg font-bold transition-all duration-300 group-hover:scale-110 md:px-12 md:py-6 md:text-xl">
             START A PROJECT
